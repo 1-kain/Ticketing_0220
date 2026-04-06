@@ -1,2 +1,5 @@
 # Ticketing_0220
-Digital Business Lecture Project
+Kalvin Wibowo
+24.62.0220
+24BCIS04
+Digital Business Project
